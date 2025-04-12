@@ -34,23 +34,10 @@ This repository provides documentation, progress tracking, and support for migra
 ## Pricing  
 **Cost = Database Size (MB) × $0.50**  
 Example:  
-- 1 GB (500 MB) = **$250**  
+- 0.5 GB (500 MB) = **$250**
+- After Exclude logs we'll count database size
 
----
 
-## Getting Started  
-1. **Request a Quote**:  
-   - Fork this repository.  
-   - Create an issue with the template `[Migration Request]`.  
-   - Provide your database size and schema details.  
-
-2. **Track Progress**:  
-   - All migrations are tracked via [GitHub Projects](link-to-project-board).  
-
-3. **Post-Migration**:  
-   - Access setup guides for EPG/bouquets in `/docs`.  
-
----
 
 ## FAQ  
 ❓ **Why manual migration?**  
@@ -68,4 +55,4 @@ Yes! Report issues or suggest improvements we'll improve, currently all migrated
 - **Telegram**: @xtreamMasters
 - **Whatsapp**: +44 7307 530066
 
-[View Service Website]([#](https://xtream-masters.com/))
+[View Service Website](https://xtream-masters.com/)
