@@ -1,9 +1,9 @@
-# 1-Stream Database Migration Service  
+# 1-Stream Panel Database Migration Service  
 
 ![Database Migration](https://img.shields.io/badge/Status-Active-brightgreen)  
 ![License](https://img.shields.io/badge/License-MIT-blue)  
 
-**We will Manually migrate your 1-Stream database to Xtream-Masters, Xui one, streamcreed, nxt, xtream ui or any other panel with precision.**  
+**We will Manually migrate your 1-Stream Panel database to Xtream-Masters, Xui one, streamcreed, nxt, xtream ui or any other panel with precision.**  
 This repository provides documentation, progress tracking, and support for migrating complex PostgreSQL databases to Xtream-Masters, Xui one, streamcreed, nxt, xtream ui MySQL structure.  
 
 ---
